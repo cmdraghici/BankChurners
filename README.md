@@ -14,11 +14,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Credit Card Customers to better understand:
 
-1. The impact os the education level into the income salary?
-2. The gender influence into churn decision?
-3. 
-4. 
-5. 
+1. Which is the impact of the education level into the income salary?
+2. Is there any influnce of the gender into the salary income?
+3. Higher studies implies more responsabilities with your account?
+4. Higher income implies less depts?
+5. What make a person churn the bank?
 
 ## File Descriptions <a name="files"></a>
 
