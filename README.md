@@ -16,7 +16,7 @@ For this project, I was interestested in using Credit Card Customers to better u
 
 1.  Which is the impact of the education level into the income salary?
 2.  Is there any influnce of the gender into the salary income?
-2.5 Which gender is more prone to churn the bank?
+2.5. Which gender is more prone to churn the bank?
 3.  Higher studies implies more responsabilities with your account?
 4.  Higher income implies less depts?
 5.  What make a person churn the bank?
