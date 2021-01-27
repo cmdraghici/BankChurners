@@ -23,7 +23,11 @@ For this project, I was interestested in using Credit Card Customers to better u
 
 ## File Descriptions <a name="files"></a>
 
+There are 3 notebooks available here to showcase work related to the above questions (ChurnQuestion, DeptsQuestion, SalaryQuestions). Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
+There is also a file with an exploration of the data. (DataExploration)
+
+The file 'BankChurners.csv' is the data set used to anserw the questions.
 
 ## Results<a name="results"></a>
 
