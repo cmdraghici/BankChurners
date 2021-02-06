@@ -31,7 +31,7 @@ The file 'BankChurners.csv' is the data set used to anserw the questions.
 
 ## Results<a name="results"></a>
 
-
+The main findings of the code can be found at the post available [here](https://cmdraghici.medium.com/how-bank-clients-behave-442910aa3635).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
