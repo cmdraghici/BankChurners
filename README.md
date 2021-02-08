@@ -3,6 +3,7 @@
 1. [Installation](#installation)
 2. [Business Understanding](#business)
 3. [Data Understanding](#data)
+4. [Data Preparation](#preparation)
 4. [File Descriptions](#files)
 5. [Results](#results)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
@@ -31,6 +32,10 @@ To do so, we will extract the answer of the following questions from the data.
 The first thing used to get a better uderstanding of the data was the [kaggle web](https://www.kaggle.com/sakshigoyal7/credit-card-customers) page which provide us the dataset. In the web we can find a basic description of the data. But what is more important is the description of each feature from the dataset.
 
 Once we checked all that information we can deep dive into the data a bit more through the file called DataExploration.
+
+## Data Preparation <a name="preparation"></a>
+
+The first thing to check while you prepare the data are the null values. We explored this in the file "DataExploration" and we discovered that all the null values from the dataset are marked as "Unknown", so we decided that could be interesting to keep those values unchanged. Then, for instance in a situation where we are analysing the salary we can analyse also the number of "Unknown" values.
 
 ## File Descriptions <a name="files"></a>
 
