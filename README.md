@@ -1,16 +1,17 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Business Understanding](#understanding)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [Business Understanding](#business)
+3. [Data Understanding](#data)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-## Business Understanding<a name="understanding"></a>
+## Business Understanding<a name="business"></a>
 
 Banks are the basic financial institutions, they accept deposit demands while at the same time they use it to make loans. Even if the first concept of banking may have begun in ancient Assyria and Babylonia, they have evolved a lot through the ages and still preserve a high competence for having the major numbers of clients.
 
@@ -24,6 +25,12 @@ To do so, we will extract the answer of the following questions from the data.
 3.  Higher studies implies more responsabilities with your account?
 4.  Higher income implies less depts?
 5.  What make a person churn the bank?
+
+## Data Understanding <a name="data"></a>
+
+The first thing used to get a better uderstanding of the data was the [kaggle web](https://www.kaggle.com/sakshigoyal7/credit-card-customers) page which provide us the dataset. In the web we can find a basic description of the data. But what is more important is the description of each feature from the dataset.
+
+Once we checked all that information we can deep dive into the data a bit more through the file called DataExploration.
 
 ## File Descriptions <a name="files"></a>
 
