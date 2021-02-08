@@ -1,7 +1,7 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
+2. [Business Understanding](#understanding)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
@@ -10,9 +10,13 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-## Project Motivation<a name="motivation"></a>
+## Business Understanding<a name="understanding"></a>
 
-For this project, I was interestested in using Credit Card Customers to better understand:
+Banks are the basic financial institutions, they accept deposit demands while at the same time they use it to make loans. Even if the first concept of banking may have begun in ancient Assyria and Babylonia, they have evolved a lot through the ages and still preserve a high competence for having the major numbers of clients.
+
+Today everybody knows, at least have some basics about what it's a bank. The majority of the western citizen uses or used a bank account. But what makes a customer to stay in the bank? Many marketing experts on the field have this question and they try to understand the users behave. In this project we will try to extract from the data the behaviour of certain customers from a bank. In order to provide to the marketing department the information that they would need to better understand their customers.
+
+To do so, we will extract the answer of the following questions from the data.
 
 1.  Which is the impact of the education level into the income salary?
 2.  Is there any influnce of the gender into the salary income?
